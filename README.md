@@ -1,8 +1,8 @@
 Olá! Eu sou a Helen Cristina 👋
 
                           
-💻 Estou cursando Análise e Desenvolvimento de Sistemas                                                
-📘 Atualmente estou estudando JS                                           
+💻 Análise e Desenvolvimento de Sistemas                                                
+                                          
 
 <div style="display: inline_block"><br>
 
