@@ -1,7 +1,6 @@
 Olá! Eu sou a Helen Cristina 👋
-
-                          
-💻 Análise e Desenvolvimento de Sistemas                                                
+- Estou cursando Análise e Desenvolvimento de Sistemas    
+- Atualmente estou me aprofundando em Análise de Dados com Python                                            
                                           
 
 <div style="display: inline_block"><br>
