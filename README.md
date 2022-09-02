@@ -1,6 +1,6 @@
 Olá! Eu sou a Helen Cristina 👋
 - Estou cursando Análise e Desenvolvimento de Sistemas    
-- Atualmente estou estudando JavaScript                                            
+- Atualmente estou estudando Ciência de Dados                                            
                                           
  <div align="center">
   <a href="https://github.com/Helencristina">
